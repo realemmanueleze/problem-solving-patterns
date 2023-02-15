@@ -71,6 +71,7 @@ function itemsSquared(list1, list2) {
       return false;
     }
   }
+  
   return true;
 }
 
